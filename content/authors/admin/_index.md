@@ -17,10 +17,10 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
-interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+intereses:
+- Regulación Financiera
+- Protección de Datos
+- Contratos de Consumo
 
 education:
   courses:
